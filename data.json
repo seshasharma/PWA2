@@ -1,0 +1,49 @@
+{
+  "basics":{
+    "photo":"images/person1.png",
+    "name":"L Sesha Sharma",
+    "email":"seshasharma97@gmail.com",
+    "mobile":"7337309234"
+  },
+
+"education":[
+  {
+    "course":"B.Tech(Computer Science and Engineering)",
+    "institution":[
+      "G pullaiah college of engineering and technology",
+      "2015-2019",
+      "79"
+    ]
+  },
+  {
+    "course":"Intermediate(MPC)",
+    "institution":[
+      "Narayana Junior college",
+      "2013-2015",
+      "96"
+    ]
+  },
+  {
+    "course":"SSC",
+    "institution":[
+      "Good sheperd English school",
+      "2012-2013",
+      "96"
+    ]
+  }
+],
+    "skills":[
+      {
+      "name":"Programming Languages",
+      "value":"C,C++,Java"
+    },
+    {
+      "name":"Web Technologies",
+      "value":"HTML,CSS,JS"
+    },
+    {
+      "name":"Operating System",
+      "value":"Linux,Windows"
+    }
+]
+}
